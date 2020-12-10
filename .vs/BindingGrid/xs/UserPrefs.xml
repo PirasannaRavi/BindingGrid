@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{088813F1-D028-4F19-BC71-D68388DCBE6D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="App_Start/RouteConfig.cs">
+    <Files>
+      <File FileName="Controllers/HomeController.cs" Line="41" Column="14" />
+      <File FileName="Views/Home/Index.cshtml" Line="5" Column="13" />
+      <File FileName="Models/BindGrid.cs" Line="16" Column="23" />
+      <File FileName="Global.asax.cs" Line="12" Column="30" />
+      <File FileName="App_Start/RouteConfig.cs" Line="8" Column="28" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.BindingGrid PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

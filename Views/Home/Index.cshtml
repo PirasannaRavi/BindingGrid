@@ -1,0 +1,9 @@
+﻿@model IEnumerable<Value>
+
+
+<div>
+    @{
+        var grid = new WebGrid(Model);
+    }
+    @grid.GetHtml()
+</div>
